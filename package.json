@@ -1,0 +1,17 @@
+{
+  "name": "waifu-picture",
+  "version": "1.0.0",
+  "description": "website waifu all anime ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "waifu",
+    "anime",
+    "image",
+    "api"
+  ],
+  "author": "ArifzynXD",
+  "license": "ISC"
+}
